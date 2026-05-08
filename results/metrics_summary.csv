@@ -1,0 +1,6 @@
+model,accuracy,f1_macro,f1_weighted,notes
+SVM,0.7467,0.7402,0.7402,"{'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}"
+RandomForest,0.62,0.6138,0.6138,n_estimators=200
+CNN1D,0.5867,0.5962,0.5962,CNN1D on MFCC sequence
+LSTM,0.5267,0.5173,0.5173,BiLSTM 2 layers on MFCC
+CNN_LSTM_Hybrid,0.6267,0.6246,0.6246,CNN1D+LSTM on MFCC
