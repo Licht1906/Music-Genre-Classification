@@ -10,3 +10,4 @@ gradio
 mlflow
 tqdm
 Pillow
+torch
