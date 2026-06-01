@@ -1,0 +1,2 @@
+model,accuracy,f1_macro,f1_weighted,notes
+CNN2D_BiLSTM,0.8011,0.7925,0.7955,"CNN2D+BiLSTM on Mel Spectrogram, GroupShuffleSplit"

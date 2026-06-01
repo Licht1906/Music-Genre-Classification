@@ -1,0 +1,11 @@
+Genre,Class Accuracy,Correct,Total,Most Confused With,Confused Count
+rock,0.4651,60,129,disco,18
+reggae,0.6789,129,190,jazz,16
+blues,0.7167,129,180,jazz,14
+hiphop,0.7273,72,99,reggae,12
+pop,0.7857,110,140,rock,12
+disco,0.8267,124,150,reggae,9
+jazz,0.9045,199,220,classical,13
+country,0.9267,139,150,rock,4
+metal,0.9857,138,140,disco,1
+classical,1.0,100,100,None,0
