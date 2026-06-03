@@ -3,10 +3,8 @@ soundfile==0.12.1
 numpy
 pandas
 scikit-learn
-tensorflow
 matplotlib
 seaborn
-gradio
-mlflow
-tqdm
 Pillow
+streamlit
+torch

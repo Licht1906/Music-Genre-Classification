@@ -1,0 +1,18 @@
+
+FINAL EVALUATION SUMMARY
+
+Best model: KNN
+Best accuracy: 0.9139
+
+CNN2D_BiLSTM metrics:
+- Accuracy: 0.8011
+- Precision macro: 0.7942
+- Recall macro: 0.8017
+- F1 macro: 0.7925
+- F1 weighted: 0.7955
+
+Comments:
+- Traditional machine learning models from Task B achieve strong performance on extracted audio features.
+- The CNN2D_BiLSTM model from Task C uses Mel Spectrogram input and captures temporal-spatial patterns in audio.
+- The confusion matrix helps identify which music genres are frequently misclassified.
+- The final comparison table provides a basis for selecting the best model for deployment or demo.
